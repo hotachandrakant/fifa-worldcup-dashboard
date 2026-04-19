@@ -58,11 +58,11 @@ project/
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/fifa-worldcup-dashboard.git
 
 ### Step 2: Navigate to project folder
 
-cd your-repo-name
+cd fifa-worldcup-dashboard
 
 ### Step 3: Install dependencies
 
@@ -80,17 +80,18 @@ http://127.0.0.1:8050/
 
 ## 💡 Future Enhancements
 
-* 🎨 Add Dark Theme UI
-* 📊 Add KPI Cards (Total Matches, Goals, Teams)
-* 🔍 Advanced Filters (Team-wise, Year Range)
-* 🌐 Deploy the dashboard online
+🤖 Add Machine Learning models for match prediction
+📊 Advanced analytics and insights
+🎨 Improve UI with dark theme and KPI cards
+🌐 Deploy dashboard on cloud platforms
 
 ---
 
 ## 🙌 Author
 
 **Chandrakant Hota**
-BCA Student | Aspiring Software Developer
+Aspiring Data Scientist | Data Analyst
+BCA Student
 
 ---
 
