@@ -58,7 +58,7 @@ project/
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/your-username/fifa-worldcup-dashboard.git
+[git clone https://github.com/your-username/fifa-worldcup-dashboard.git](https://github.com/hotachandrakant/fifa-worldcup-dashboard.git)
 
 ### Step 2: Navigate to project folder
 
